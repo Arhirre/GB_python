@@ -1,4 +1,4 @@
-# dz - Nikita_Savchenko
+# _author_ = Nikita_Savchenko
 
 numUser = input('введите число: ')
 numA = int(numUser)

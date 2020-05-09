@@ -1,4 +1,4 @@
-# dz - Nikita_Savchenko
+# _author_ = Nikita_Savchenko
 
 numA = int(input('введите целое число: '))
 print(numA)

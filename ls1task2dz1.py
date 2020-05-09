@@ -1,4 +1,4 @@
-# dz - Nikita_Savchenko
+# _author_ = Nikita_Savchenko
 
 timeSec = int(input('введите время в секундах: '))
 hour = timeSec // 3600

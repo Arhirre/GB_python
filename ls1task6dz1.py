@@ -1,4 +1,4 @@
-# dz - Nikita_Savchenko
+# _author_ = Nikita_Savchenko
 
 a = int(input('ввелите результат спортсмена в первый день: '))
 b = int(input('введите целевой результат спортсмена: '))

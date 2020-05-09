@@ -1,4 +1,4 @@
-# dz - Nikita_Savchenko
+# _author_ = Nikita_Savchenko
 
 revenue = int(input('введите значение выручки: '))
 costs = int(input('введите значение издержек: '))
