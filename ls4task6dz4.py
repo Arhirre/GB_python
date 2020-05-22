@@ -1,5 +1,4 @@
-from itertools import count
-from math import factorial
+# _author_ = Nikita_Savchenko
 
 
 def fact(n):
