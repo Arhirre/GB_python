@@ -1,0 +1,4 @@
+Math: 100(lec) 25(prac) 5lab 
+Physic: 50lec - 5lab 
+Inf: 35lec 35prac - 
+Health: - 20prac - 
